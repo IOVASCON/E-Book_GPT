@@ -100,8 +100,6 @@ No Visual Studio Code, muitos dos comandos do MS-DOS são utilizados no terminal
 
 O PowerShell do Windows é uma evolução do MS-DOS, oferecendo uma interface mais poderosa e flexível. No entanto, muitos dos comandos básicos do MS-DOS ainda são compatíveis, tornando a transição suave para quem está acostumado com o MS-DOS.
 
-![Comandos no PowerShell](./assets/imagens/powershell_example.jpg)
-
     **Exemplo de comandos no PowerShell**
 
     Get-ChildItem   # Equivalente ao DIR
@@ -119,3 +117,5 @@ Mesmo com novas ferramentas e interfaces gráficas, os comandos de linha de coma
 O MS-DOS, com seus comandos simples e eficazes, permanece relevante no mundo da programação. Seu legado continua vivo nos terminais modernos, facilitando o trabalho diário dos desenvolvedores e lembrando-nos da importância da persistência e evolução na tecnologia.
 
 Ebook criado por: Izairton Oliveira de Vasconcelos
+
+![Comandos no PowerShell](./assets/imagens/powershell_example.jpg)
