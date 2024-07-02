@@ -117,3 +117,5 @@ Mesmo com novas ferramentas e interfaces gráficas, os comandos de linha de coma
 ## Conclusão
 
 O MS-DOS, com seus comandos simples e eficazes, permanece relevante no mundo da programação. Seu legado continua vivo nos terminais modernos, facilitando o trabalho diário dos desenvolvedores e lembrando-nos da importância da persistência e evolução na tecnologia.
+
+Ebook criado por: Izairton Oliveira de Vasconcelos
