@@ -22,7 +22,7 @@ Com o tempo, a interface gráfica do Windows substituiu gradualmente o MS-DOS, m
 
 ### DIR: Listando Arquivos e Pastas
 
-    ![Comando DIR](./assets/imagens/dir_example.jpg)
+![Comando DIR](./assets/imagens/dir_example.jpg)
 
     O comando `DIR` é utilizado para listar os arquivos e pastas no diretório atual. Nas IDEs modernas, como o VSCode, você pode utilizar comandos equivalentes para navegar e listar conteúdos do diretório.
 
@@ -36,7 +36,7 @@ Com o tempo, a interface gráfica do Windows substituiu gradualmente o MS-DOS, m
 
 ### CD: Navegando entre Diretórios
 
-    ![Comando CD](./assets/imagens/cd_example.jpg)
+![Comando CD](./assets/imagens/cd_example.jpg)
 
     O comando CD permite mudar de diretório. É essencial para navegar através da estrutura de arquivos no terminal.
 
@@ -50,7 +50,7 @@ Com o tempo, a interface gráfica do Windows substituiu gradualmente o MS-DOS, m
 
 ### COPY: Copiando Arquivos
 
-    ![Comando COPY](./assets/imagens/copy_example.jpg)
+![Comando COPY](./assets/imagens/copy_example.jpg)
 
     O comando COPY é usado para copiar arquivos de um local para outro. Nas IDEs modernas, a cópia de arquivos é uma tarefa comum.
 
@@ -64,7 +64,7 @@ Com o tempo, a interface gráfica do Windows substituiu gradualmente o MS-DOS, m
 
 ### DEL: Deletando Arquivos
 
-    ![Comando DEL](./assets/imagens/del_example.jpg)
+![Comando DEL](./assets/imagens/del_example.jpg)
 
     O comando DEL serve para deletar arquivos. É utilizado com frequência para remover arquivos desnecessários ou obsoletos.
 
@@ -78,7 +78,7 @@ Com o tempo, a interface gráfica do Windows substituiu gradualmente o MS-DOS, m
 
 ### REN: Renomeando Arquivos
 
-    ![Comando REN](./assets/imagens/ren_example.jpg)
+![Comando REN](./assets/imagens/ren_example.jpg)
 
     O comando REN é usado para renomear arquivos. Isso é útil quando você precisa organizar ou atualizar nomes de arquivos.
 
@@ -100,7 +100,7 @@ No Visual Studio Code, muitos dos comandos do MS-DOS são utilizados no terminal
 
 O PowerShell do Windows é uma evolução do MS-DOS, oferecendo uma interface mais poderosa e flexível. No entanto, muitos dos comandos básicos do MS-DOS ainda são compatíveis, tornando a transição suave para quem está acostumado com o MS-DOS.
 
-    ![Comandos no PowerShell](./assets/imagens/powershell_example.jpg)
+![Comandos no PowerShell](./assets/imagens/powershell_example.jpg)
 
     **Exemplo de comandos no PowerShell**
 
